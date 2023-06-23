@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working at [Polyclinique de picardie](https://www.polyclinique-picardie.fr)
 
-- 💬  Ask me about **Laravel, Vue.js ,React, Laravel, Design**
+- 💬  Ask me about **Laravel, Angular ,React, node, express, Design**
 
 
 <h3 align="left">Languages and Tools:</h3>
