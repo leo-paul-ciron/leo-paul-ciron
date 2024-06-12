@@ -24,7 +24,7 @@ Jeune web développeur dynamique.
 
 ## 📈 Mes statistiques GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[leo-paul-ciron])](https://github.com/[leo-paul-ciron])
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-paul-ciron)](https://github.com/leo-paul-ciron)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-paul-ciron)](https://github.com/leo-paul-ciron/github-readme-stats)
 
