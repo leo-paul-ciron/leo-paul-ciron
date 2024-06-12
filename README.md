@@ -24,11 +24,11 @@ Jeune web développeur dynamique.
 
 ## 📈 Mes statistiques GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Votre nom d'utilisateur GitHub])](https://github.com/[Votre nom d'utilisateur GitHub])
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[leo-paul-ciron])](https://github.com/[leo-paul-ciron])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Votre nom d'utilisateur GitHub]&layout=compact)](https://github.com/[Votre nom d'utilisateur GitHub])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[leo-paul-ciron]&layout=compact)](https://github.com/[leo-paul-ciron])
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Votre nom d'utilisateur GitHub])](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[leo-paul-ciron])](https://git.io/streak-stats)
 
 
 ## 📫 Me contacter
