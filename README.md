@@ -33,5 +33,5 @@ Jeune web développeur dynamique.
 
 *   leopaulciron@gmail.com
 *   www.linkedin.com/in/léo-paul-ciron-9a3b0b234
-*   lciron.com
+*   www.lciron.com
 
