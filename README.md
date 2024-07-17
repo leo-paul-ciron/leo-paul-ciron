@@ -26,8 +26,6 @@ Jeune web développeur dynamique.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-paul-ciron)](https://github.com/leo-paul-ciron/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[leo-paul-ciron])](https://git.io/streak-stats)
-
 
 ## 📫 Me contacter
 
